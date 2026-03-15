@@ -1,0 +1,10 @@
+{
+  "name": "video-cutter-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "cors": "^2.8.5"
+  }
+}
